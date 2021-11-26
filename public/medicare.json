@@ -1,0 +1,123 @@
+{
+  "doctor": [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/RjwX7YX/istockphoto-1265438538-170667a.png",
+      "name": "Dr. William Stan",
+      "specialist": "Neurologist",
+      "description": "How we dream about our future"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/Yc6Pzjs/istockphoto-1271328839-170667a.png",
+      "name": "Dr. Melissa Smith",
+      "specialist": "Cardiologist",
+      "description": "How we dream about our future."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/VSdyR90/male-doctor-portrait-isolated-white-background-56744085.png",
+      "name": "Dr. Josh Henderson",
+      "specialist": "Plastic Surgeon",
+      "description": "How we dream about our future."
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/yFpS3vV/istockphoto-138205019-612x612.png",
+      "title": "Dr. Christinne Jones",
+      "specialist": "Pediatrist",
+      "description": "How we dream about our future."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/3CNn0Wb/cheerful-mature-doctor-posing-smiling-260nw-1384243295.png",
+      "name": "Dr. Lloyd Wilson",
+      "specialist": "Dentist",
+      "description": "How we dream about our future.",
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/Z1gwcxK/doctor-with-his-arms-crossed-white-background-1368-5790.png",
+      "name": "Dr. Rachel Parker",
+      "specialist": "Orthopedic Surgeon",
+      "description": "How we dream about our future."
+    }
+  ],
+  "department": [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/2vcFXjg/stethoscope.png",
+      "dp_name": "Neurology",
+      "description": "Far far away, behind the word mountains"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/2vcFXjg/stethoscope.png",
+      "dp_name": "Cardiology",
+      "description": "Far far away, behind the word mountains"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/2vcFXjg/stethoscope.png",
+      "dp_name": "Dental",
+      "description": "Far far away, behind the word mountains"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/2vcFXjg/stethoscope.png",
+      "dp_name": "Surgical",
+      "description": "Far far away, behind the word mountains"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/2vcFXjg/stethoscope.png",
+      "dp_name": "Ophthalmology",
+      "description": "Far far away, behind the word mountains"
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/2vcFXjg/stethoscope.png",
+      "dp_name": "Traumatology",
+      "description": "Far far away, behind the word mountains"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/vZQd0F8/doctor.png",
+      "se_name": "Qualified Doctors",
+      "description": "How we dream about our future"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/6mJcN5C/ambulance.png",
+      "se_name": "Emergency Services",
+      "description": "How we dream about our future"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/2vcFXjg/stethoscope.png",
+      "se_name": "Outdoors Checkup",
+      "description": "How we dream about our future"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/M16D6PK/24-hours.png",
+      "se_name": "24 Hours Service",
+      "description": "How we dream about our future"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/TK7jq3d/blood-donation.png",
+      "se_name": "Blood Bank",
+      "description": "How we dream about our future"
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/vs3t4yJ/operating-room.png",
+      "se_name": "Operation Theater",
+      "description": "How we dream about our future"
+    }
+  ]
+}

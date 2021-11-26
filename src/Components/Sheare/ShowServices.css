@@ -1,0 +1,31 @@
+.services-image{
+    width: 95px!important;
+    height: 90px;
+    
+    text-align: center;
+}
+.service-card{
+    height: 250px;
+width: 300px;
+
+
+
+}
+.service-card:hover{
+   
+    background-color:#007bff;
+    font-weight: 600;
+    border-radius: 10px;
+    color: #ffff;
+
+    
+}
+
+button{
+    justify-content: center !important;
+    outline: none !important;
+    border: none !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    border-radius: 15px !important;
+}

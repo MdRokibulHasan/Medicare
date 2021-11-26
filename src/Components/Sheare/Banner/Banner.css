@@ -1,0 +1,15 @@
+.banner{
+    background-image: url('../../../images/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    height: 680px;
+    width: 100%;
+}
+#banner-text{
+    margin-top:150px !important;
+    
+    font-weight: 800;
+    
+
+}
